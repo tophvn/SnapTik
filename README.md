@@ -52,7 +52,7 @@ SnapTok là một website trực tuyến cho phép tải video từ TikTok, Face
 4. Đảm bảo server hỗ trợ cURL và cho phép gửi yêu cầu HTTP đến các API bên ngoài.
 
 ## Hướng dẫn sử dụng
-1. Mở trang web SnapTok tại [http://snaptok.free.nf](http://snaptok.free.nf).
+1. Mở trang web SnapTok tại [http://snaptok.free.nf](https://snaptok.free.nf).
 2. Chọn nền tảng (TikTok, Facebook, YouTube) từ menu điều hướng.
 3. Dán URL video vào ô nhập liệu và nhấn "Download".
 4. Chọn chất lượng/định dạng mong muốn và tải video về thiết bị.
