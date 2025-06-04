@@ -46,10 +46,9 @@ SnapTok là một website trực tuyến cho phép tải video từ TikTok, Face
    - Hiển thị thumbnail, tiêu đề, mô tả và các nút tải xuống (MP4, MP3) với các chất lượng khác nhau.
 
 ## Cài đặt
-1. Clone repository: `git clone <repo-url>`
+1. Clone repository: `git clone https://github.com/tophvn/SnapTik.git`
 2. Đặt repository trên server hỗ trợ PHP (Apache/Nginx).
-3. Cấu hình quyền truy cập cho thư mục `static` và `css`.
-4. Đảm bảo server hỗ trợ cURL và cho phép gửi yêu cầu HTTP đến các API bên ngoài.
+3. Đảm bảo server hỗ trợ cURL và cho phép gửi yêu cầu HTTP đến các API bên ngoài.
 
 ## Hướng dẫn sử dụng
 1. Mở trang web SnapTok tại [http://snaptok.free.nf](https://snaptok.free.nf).
